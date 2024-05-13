@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="album_transform.xslt"?>
+<albums>
+    <album media="CD">
+        <title>Thriller</title>
+        <artist>Michael Jackson</artist>
+        <tracklist>
+            <track duration="03:10">Billie Jean</track>
+            <track duration="02:59">Thriller</track>
+        </tracklist>
+    </album>
+</albums>
